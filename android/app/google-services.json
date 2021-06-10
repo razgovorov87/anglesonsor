@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472258292049",
+    "project_id": "anglesenso",
+    "storage_bucket": "anglesenso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472258292049:android:b038367aee6e1e6cf80b70",
+        "android_client_info": {
+          "package_name": "com.example.anglesensor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472258292049-b4osgr58gu184d192n8m70ea0lf25569.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxmfdWWlpaH7YFMBJLBlEv49_SjCYdUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472258292049-b4osgr58gu184d192n8m70ea0lf25569.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
